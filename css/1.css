@@ -1,0 +1,50 @@
+html {
+    font-size:10px;
+    font-family: 'Itim', cursive;
+}
+
+h1 {
+    font-size: 50px;color: rgba(255, 255, 0, 0.897);
+    text-align: center;
+    text-shadow: 3px 3px 1px dimgrey;
+    padding: 1px 1px;
+    border: 2px solid cyan;
+    margin: 1px 400px;
+}
+.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 120%;
+   width: 100%;
+   border: 2px solid gold;
+}
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2px;
+    width: 100%;
+
+ }
+
+.info {
+    background-color: black;
+    color:  rgba(255, 255, 0, 0.897);
+    font-size: 40px;
+    text-shadow: 3px 3px 1px dimgrey;
+    text-align: center;
+    padding:  3px 3px 3px 3px;
+    margin: 1px ;
+    border: 2px solid cyan;
+}
+.info2 {
+    background-color: black;
+    color:  rgba(255, 255, 0, 0.897);
+    font-size: 40px;
+    text-shadow: 3px 3px 1px dimgrey;
+    text-align: center;
+    padding: 5px;
+    margin: 1px ;
+    border: 2px solid rgba(255, 255, 0, 0.897);
+}

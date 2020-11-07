@@ -1,0 +1,33 @@
+html {
+    font-size:10px;
+    font-family: 'Itim', cursive;
+    background-image:"image/o.gif";
+}
+
+body {
+
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    font-size: 60px;color: rgba(255, 255, 0, 0.897);
+    text-align: center;
+    text-shadow: 3px 3px 1px dimgrey;
+    padding: 1px 1px 1px 1px;
+    border: 2px solid cyan;
+    margin: 20px 10px;
+}
+
+p {
+    font-size: 30px;color: dimgrey;
+    text-align: center;
+    text-shadow: 1px 1px 1px yellow;
+}
+
+img {
+    size: 50px 50px;
+    
+
+}
